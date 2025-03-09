@@ -1,0 +1,8 @@
+{
+  "name": "game-monorepo",
+  "version": "0.1.0",
+  "description": "Game with Elixir backend and Electron frontend",
+  "scripts": {
+    "start": "./scripts/start-dev.sh"
+  }
+}
